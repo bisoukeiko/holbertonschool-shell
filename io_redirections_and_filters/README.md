@@ -32,15 +32,18 @@ task15 Display the number of lines that contain the pattern “bin” in the fil
 
 task16 Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
 
-task17
+task17 Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
 
-task18
+task18 Display all lines of the file /etc/ssh/sshd_config starting with a letter.
 
-task19
+task19 Replace all characters A and c from input to Z and e respectively.
 
-task20
+task20 Create a script that removes all letters c and C from input.
 
-task21
+task21 Write a script that reverse its input.
 
-task22
+task22 Write a script that displays all users and their home directories, sorted by users.
+
+    Based on the the /etc/passwd file
+
 
