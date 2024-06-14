@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -empty | ls -la | tr -t ' ' -k9
+find . -empty |cut -d ' ' -k9
